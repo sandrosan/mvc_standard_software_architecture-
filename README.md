@@ -16,8 +16,7 @@ O responsável por receber todas as requisições do usuário. Seus métodos cha
 
 (A imagem abaixo representa o fluxo do MVC em um contexto de Internet, com uma requisição HTTP e resposta em formato HTML ou XML)
 
-
-<a href="https://rubytogether.org/"><img src="https://rubytogether.org/images/rubies.svg" width=200></a><br/>
+<a href="https://pt.stackoverflow.com/questions/55486/o-que-%C3%A9-mvcmodel-view-controller/"><img src="https://i.stack.imgur.com/YfSWp.jpg width=200></a><br/>
 
 ## O diálogo das camadas na Web
 
@@ -30,3 +29,4 @@ O responsável por receber todas as requisições do usuário. Seus métodos cha
 **Controller** – Blz. View, o usuário informou os dados corretos. Vou mandar pra vc os dados dele e você carrega a página de perfil.
 
 **View** – Vlw. Mostrando ao usuário…
+
