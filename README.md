@@ -16,7 +16,7 @@ O responsável por receber todas as requisições do usuário. Seus métodos cha
 
 (A imagem abaixo representa o fluxo do MVC em um contexto de Internet, com uma requisição HTTP e resposta em formato HTML ou XML)
 
-inserir a descrição da imagem aqui
+
 
 ## O diálogo das camadas na Web
 
