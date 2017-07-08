@@ -16,7 +16,8 @@ O responsável por receber todas as requisições do usuário. Seus métodos cha
 
 (A imagem abaixo representa o fluxo do MVC em um contexto de Internet, com uma requisição HTTP e resposta em formato HTML ou XML)
 
-https://i.stack.imgur.com/YfSWp.jpg
+
+<a href="https://rubytogether.org/"><img src="https://rubytogether.org/images/rubies.svg" width=200></a><br/>
 
 ## O diálogo das camadas na Web
 
