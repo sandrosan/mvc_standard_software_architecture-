@@ -2,15 +2,15 @@
 
 MVC é nada mais que um padrão de arquitetura de software, separando sua aplicação em 3 camadas. A camada de interação do usuário(view), a camada de manipulação dos dados(model) e a camada de controle(controller).
 
-##Model
+## Model
 
 Sempre que você pensar em manipulação de dados, pense em model. Ele é responsável pela leitura e escrita de dados, e também de suas validações.
 
-##View
+## View
 
 Simples: a camada de interação com o usuário. Ela apenas faz a exibição dos dados.
 
-##Controller
+## Controller
 
 O responsável por receber todas as requisições do usuário. Seus métodos chamados actions são responsáveis por uma página, controlando qual model usar e qual view será mostrado ao usuário.
 
@@ -18,7 +18,7 @@ O responsável por receber todas as requisições do usuário. Seus métodos cha
 
 inserir a descrição da imagem aqui
 
-##O diálogo das camadas na Web
+## O diálogo das camadas na Web
 
 **View** - Fala Controller ! O usuário acabou de pedir para acessar o Facebook ! Pega os dados de login dele ai.
 
